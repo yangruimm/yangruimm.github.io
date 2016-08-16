@@ -1,0 +1,9 @@
+---
+layout: default
+img: ai.jpg
+category: Services
+title: AI
+description: |
+---
+图片描述：本图为扁平化图标
+掌握技能：能通过AI绘制扁平化图标、修饰字体，绘制大量矢量图形等，详情请参考“作品展示”链接。

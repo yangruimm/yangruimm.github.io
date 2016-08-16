@@ -1,0 +1,10 @@
+---
+layout: default
+img: banner1.jpg
+category: Services
+title: Banner
+description: |
+---
+图片描述：本图为临摹banner，背景通过绘制后采用叠加效果来提亮背景，同时定义画笔来实现背景的小亮光；产品制作了倒影以及部分产品的阴影效果。
+
+掌握技能：除了能临摹各类电商广告类banner，同时也能设计出符合客户需求的banner。
